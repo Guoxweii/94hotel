@@ -1,5 +1,2 @@
 require "baidu_map_ruby/version"
-
-module BaiduMapRuby
-  # Your code goes here...
-end
+require File.expand_path("../baidu_map_ruby/engine", __FILE__)
